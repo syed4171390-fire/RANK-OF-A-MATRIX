@@ -18,10 +18,12 @@ Developed by : Syed Shamsheer Ali
 
 Register number : 212225220114
 ## Program:
+```
 import numpy
 a=numpy.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 b=numpy.linalg.matrix_rank(a)
 print(b)
+```
 ## Output:
 
 <img width="1896" height="842" alt="Maths fpr Ai exp 2" src="https://github.com/user-attachments/assets/37d59153-ecb6-4cc3-8d7a-292bf691ad98" />
