@@ -23,7 +23,9 @@ a=numpy.array([[3,2,5],[1,1,2],[3,3,6]])
 b=numpy.linalg.matrix_rank(a)
 print(b)
 ## Output:
-<img width="921" height="770" alt="image" src="https://github.com/user-attachments/assets/a2af9251-57ba-4ca7-b006-4590d1de0179" />
+
+<img width="1896" height="842" alt="Maths fpr Ai exp 2" src="https://github.com/user-attachments/assets/37d59153-ecb6-4cc3-8d7a-292bf691ad98" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
