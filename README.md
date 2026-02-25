@@ -19,7 +19,7 @@ Developed by : Syed Shamsheer Ali
 Register number : 212225220114
 ## Program:
 import numpy
-a=numpy.array([[3,2,5],[1,1,2],[3,3,6]])
+a=numpy.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 b=numpy.linalg.matrix_rank(a)
 print(b)
 ## Output:
